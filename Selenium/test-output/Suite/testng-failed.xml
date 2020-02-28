@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="password" value="Welcome1"/>
+  <parameter name="url" value="https://qa.completepro.com/"/>
+  <parameter name="username" value="matrix@cts.com"/>
+  <test thread-count="5" name="Test(failed)" parallel="tests">
+    <classes>
+      <class name="cprotstng.Angelas">
+        <methods>
+          <include name="Angelasmith"/>
+          <include name="ANgelasmith"/>
+          <include name="startApp"/>
+        </methods>
+      </class> <!-- cprotstng.Angelas -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

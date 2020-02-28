@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="159" started-at="2019-09-14T19:21:16Z" finished-at="2019-09-14T19:21:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="159" started-at="2019-09-14T19:21:16Z" finished-at="2019-09-14T19:21:16Z">
+      <class name="javapractices.CountofString">
+        <test-method status="PASS" signature="Approach1()[pri:0, instance:javapractices.CountofString@343f4d3d]" name="Approach1" duration-ms="35" started-at="2019-09-14T19:21:16Z" finished-at="2019-09-14T19:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Approach1 -->
+        <test-method status="PASS" signature="Approach2()[pri:0, instance:javapractices.CountofString@343f4d3d]" name="Approach2" duration-ms="21" started-at="2019-09-14T19:21:16Z" finished-at="2019-09-14T19:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Approach2 -->
+      </class> <!-- javapractices.CountofString -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
