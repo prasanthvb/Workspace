@@ -42,6 +42,6 @@ public class ZoomCar {
 			//List<String> pricevalue= new ArrayList<String>(carprice.getText());
 		}
 
-	}
+	}}
 
-}
+
